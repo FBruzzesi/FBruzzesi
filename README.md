@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Francesco 
   
-### About me :person_red_hair:
+### About me 🦸‍♂️:
 I hate to describe myself with a generic title - it may sound clichè, but I am a curious mind and a passionate learner.
 I fell in love with mathematics in my early years, I can remember counting and adding numbers at 4 or 5: mathematics and logic reasoning have been a big part of my life ever since.
 After pursuing a M.Sc. in pure mathematics, I decided not to pursue a PhD, hence I moved into industry to solve real-world problems through mathematical models and machine learning.
@@ -17,7 +17,7 @@ I am a data scientist at [Edison](https://www.edison.it/en), one of the leading 
 
 ###  💻 Side Project:
 
-I recently released a [webapp](https://atp-stats.herokuapp.com/) on tennis ATP statistics and analytics for which I always look for feedbacks. 
+I recently released a [webapp](https://atp-stats.herokuapp.com/) on tennis ATP 🎾 statistics and analytics and I'm always looking for feedbacks. 
 I am currently working to extend with forecasting features and more. 
 The data used are from the amazing [Jeff Sackmann github repo](https://github.com/JeffSackmann/tennis_atp).
 

@@ -1,6 +1,6 @@
-# Hi there 👋, I'm Francesco 
+# 👋 Hi there, I'm Francesco 
   
-### About me 🦸‍♂️:
+### 🦸‍♂️ About me:
 I hate to describe myself with a generic title - it may sound clichè, but I am a curious mind and a passionate learner.
 I fell in love with mathematics in my early years, I can remember counting and adding numbers at 4 or 5: mathematics and logic reasoning have been a big part of my life ever since.
 After pursuing a M.Sc. in pure mathematics, I decided not to pursue a PhD, hence I moved into industry to solve real-world problems through mathematical models and machine learning.
@@ -22,4 +22,4 @@ I am currently working to extend with forecasting features and more.
 The data used are from the amazing [Jeff Sackmann github repo](https://github.com/JeffSackmann/tennis_atp).
 
 ### 📫 How to reach me:
-You can find me on [linkedin](https://www.linkedin.com/in/francesco-bruzzesi/) 
+You can find me on [linkedin](https://www.linkedin.com/in/francesco-bruzzesi/) and [StackOverflow](https://stackoverflow.com/users/12411536/fbruzzesi)

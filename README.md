@@ -3,11 +3,12 @@
 ### 🦸‍♂️ About me
 
 I am a data scientist with 3+ years of experience, a mathematician by training, and a passionate learner. 
+
 I'm especially interested in bringing value to a team or product, which, in my experience, often has translated to prefer simple, scalable and understandable solutions as opposed to overcomplex models when not necessary.
 
 ### 💼 Where I Currently Work
 
-I am a senior data scientist at [Edison](https://www.edison.it/en), one of the leading Italian electric utility company. 
+I am a senior data scientist at [Edison](https://www.edison.it/en), one of the leading Italian electric utility company. Here I mainly work on mid and down stream projects on tabular data, time series, anomaly detection, and optimization.
 
 ###  💻 Side Project
 

@@ -2,23 +2,21 @@
   
 ### 🦸‍♂️ About me
 
-I hate to describe myself with a generic title - it may sound clichè, but I am a curious mind and a passionate learner.
-
-I fell in love with mathematics in my early years, I can remember counting and adding numbers at 4 or 5: mathematics and logic reasoning have been a big part of my life ever since.
-
-After pursuing a M.Sc. in pure mathematics, I decided to move into industry to solve real-world problems through mathematical models and machine learning.
+I am a data scientist with 3+ years of experience, a mathematician by training, and a passionate learner. 
+I'm especially interested in bringing value to a team or product, which, in my experience, often has translated to prefer simple, scalable and understandable solutions as opposed to overcomplex models when not necessary.
 
 ### 💼 Where I Currently Work
 
-I am a data scientist at [Edison](https://www.edison.it/en), one of the leading Italian electric utility company. 
+I am a senior data scientist at [Edison](https://www.edison.it/en), one of the leading Italian electric utility company. 
 
 ###  💻 Side Project
 
 When I have some spare time on weekends I maintain few projects:
-- [Tabular Data Annotator](https://ts-annotator.herokuapp.com/) webapp to label tabular data. 
-- [ATP Stats](https://atp-stats.herokuapp.com/) website for ATP tennis statistics and analytics.
+- [Deczoo](https://fbruzzesi.github.io/deczoo/) is a *zoo for python decorators*; I developed and currently maintain the library.
+- [Tabular Data Annotator](https://ts-annotator.herokuapp.com/) webapp to bulk label tabular data from a csv. 
+- [ATP Stats](https://atp-stats.herokuapp.com/) is a webapp providing tennis analytics and insights in a more colorful and intuitive manner with respect to the official ATP Tour.
 
-Both projects are developed using python [dash](https://plotly.com/dash/) framework.
+The latter two projects are developed using python [dash](https://plotly.com/dash/) framework and deployed on [heroku](https://heroku.com/).
 
 ### 📚 Currently Learning More About
 

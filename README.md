@@ -2,9 +2,9 @@
   
 ## 🦸‍♂️ About me
 
-I am a data scientist with 3+ years of experience, a mathematician by training, and a passionate learner. 
+I am a data scientist with 4+ years of experience, a mathematician by training, and a passionate learner. 
 
-I'm especially interested in bringing value to a team or product, which, in my experience, often has translated to prefer simple, scalable and understandable solutions as opposed to overcomplex models when not necessary.
+I have in depth experience working on tabular data, time series, bayesian statistic and mathematical optimization.
 
 ## 💼 Employer
 
@@ -14,10 +14,13 @@ I'm especially interested in bringing value to a team or product, which, in my e
 ##  💻 Side Project
 
 When I have some spare time on weekends I maintain few projects:
-- [Compclasses](https://fbruzzesi.github.io/compclasses/) is a python utility library to simplify *composition* (over inheritance).
-- [Deczoo](https://fbruzzesi.github.io/deczoo/) is a *zoo for python decorators*.
-- [Tabular Data Annotator](https://github.com/FBruzzesi/ts-annotator) a webapp to bulk label tabular data from a csv.
-- [ATP Stats](https://github.com/FBruzzesi/atp_stats_webapp) is a webapp providing tennis analytics and insights in a more colorful and intuitive manner with respect to the official ATP Tour.
+- *Open Source*
+  - [Timebasedcv](https://fbruzzesi.github.io/timebasedcv/): a python library that provides a cross validation strategy based on actual datetime values instead of indexes, of course compatible with scikit-learn cross validation API.
+  - [Compclasses](https://fbruzzesi.github.io/compclasses/): a python utility library to simplify *composition* (over inheritance).
+  - [Deczoo](https://fbruzzesi.github.io/deczoo/): a *zoo for python decorators*, a collection of decorators used on a daily basis.
+- *Webapps* (Still open source):
+  - [ATP Stats](https://github.com/FBruzzesi/atp_stats_webapp) is a webapp providing tennis analytics and insights in a more colorful and intuitive manner with respect to the official ATP Tour.
+  - [Tabular Data Annotator](https://github.com/FBruzzesi/ts-annotator) a webapp to bulk label tabular data from a csv.
 
 The latter two projects are developed using python [dash](https://plotly.com/dash/) framework and ~deployed on [heroku](https://heroku.com/)~ I need to migrate them to another hosting platform.
 

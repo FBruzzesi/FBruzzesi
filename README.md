@@ -29,7 +29,7 @@ The latter two projects are developed using python [dash](https://plotly.com/das
 
 You can find me on [linkedin](https://www.linkedin.com/in/francesco-bruzzesi/) and [StackOverflow](https://stackoverflow.com/users/12411536/fbruzzesi)
 
-## Tech stack
+## 🔧 Tech stack
 
 [<img height="40" width="40" src="https://cdn.simpleicons.org/python">](https://www.python.org/) &nbsp;&nbsp;
 [<img height="40" width="40" src="https://cdn.simpleicons.org/pandas">](https://pandas.pydata.org/)

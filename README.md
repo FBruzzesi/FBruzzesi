@@ -50,33 +50,23 @@ You can find me on [linkedin](https://www.linkedin.com/in/francesco-bruzzesi/) a
 [<img height="40" width="40" src="https://cdn.simpleicons.org/rust">](https://www.rust-lang.org/) &nbsp;&nbsp;
 [<img height="40" width="40" src="https://cdn.simpleicons.org/postgresql">](https://www.postgresql.org/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/sqlite">](https://www.sqlite.org/index.html)
-[<img height="40" width="40" src="https://cdn.simpleicons.org/presto">](https://prestodb.io/)
-
-<br>
-
+[<img height="40" width="40" src="https://cdn.simpleicons.org/presto">](https://prestodb.io/) &nbsp;&nbsp;&nbsp;&nbsp;
 [<img height="40" width="40" src="https://cdn.simpleicons.org/docker">](https://docs.docker.com/) &nbsp;&nbsp;
 [<img height="40" width="40" src="https://cdn.simpleicons.org/kubernetes">](https://kubernetes.io/) &nbsp;&nbsp;
 [<img height="40" width="40" src="https://cdn.simpleicons.org/linux">](https://www.linux.org/)
-[<img height="40" width="40" src="https://cdn.simpleicons.org/ubuntu">](https://ubuntu.com/)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/ubuntu">](https://ubuntu.com/) &nbsp;&nbsp;
+[<img height="40" width="40" src="https://cdn.simpleicons.org/visualstudiocode">
+](https://code.visualstudio.com/docs)
 
 <br>
 
 [<img height="40" width="40" src="https://cdn.simpleicons.org/git">](https://git-scm.com/) &nbsp;&nbsp;
 [<img height="40" width="40" src="https://cdn.simpleicons.org/github">](https://github.com/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/githubactions">](https://github.com/features/actions) &nbsp;&nbsp;
-[<img height="40" width="40" src="https://cdn.simpleicons.org/bitbucket">](https://bitbucket.org/product)
-
-
-<br>
-
+[<img height="40" width="40" src="https://cdn.simpleicons.org/bitbucket">](https://bitbucket.org/product) &nbsp;&nbsp;&nbsp;&nbsp;
 [<img height="40" width="40" src="https://cdn.simpleicons.org/amazonaws">](https://aws.amazon.com/) &nbsp;&nbsp;
 [<img height="40" width="40" src="https://cdn.simpleicons.org/amazons3">](https://docs.aws.amazon.com/s3/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/amazonec2">](https://docs.aws.amazon.com/ec2/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/amazoneks">](https://docs.aws.amazon.com/eks/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/amazonrds">](https://docs.aws.amazon.com/rds/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/awslambda">](https://docs.aws.amazon.com/lambda/)
-
-<br>
-
-[<img height="40" width="40" src="https://cdn.simpleicons.org/visualstudiocode">
-](https://code.visualstudio.com/docs)

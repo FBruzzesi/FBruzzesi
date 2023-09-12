@@ -19,7 +19,8 @@ When I have some spare time on weekends I maintain few projects:
   - [Timebasedcv](https://fbruzzesi.github.io/timebasedcv/): a python library that provides a cross validation strategy based on actual datetime values instead of indexes, of course compatible with scikit-learn cross validation API.
   - [Compclasses](https://fbruzzesi.github.io/compclasses/): a python utility library to simplify *composition* (over inheritance).
   - [Deczoo](https://fbruzzesi.github.io/deczoo/): a *zoo for python decorators*, a collection of decorators used on a daily basis.
-- *Webapps* (Still open source):
+  - [ISO Week Date](https://fbruzzesi.github.io/iso-week-date/): **iso-week-date** is a toolkit to work with strings representing [ISO Week date](https://en.wikipedia.org/wiki/ISO_week_date) in two formats: week **YYYY-WNN** and week date **YYYY-WNN-D**.
+- *Webapps* (Also open source):
   - [ATP Stats](https://github.com/FBruzzesi/atp_stats_webapp) is a webapp providing tennis analytics and insights in a more colorful and intuitive manner with respect to the official ATP Tour.
   - [Tabular Data Annotator](https://github.com/FBruzzesi/ts-annotator) a webapp to bulk label tabular data from a csv.
 

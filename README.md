@@ -20,7 +20,6 @@ When I have some spare time on weekends I maintain few projects:
 - [Timebasedcv](https://fbruzzesi.github.io/timebasedcv/): a python library that provides a cross validation strategies based on _actual datetime_ values instead of indexes, of course compatible with scikit-learn cross validation API.
 - [Compclasses](https://fbruzzesi.github.io/compclasses/): a python utility library to simplify *composition* (over inheritance).
 - [Deczoo](https://fbruzzesi.github.io/deczoo/): a *zoo for python decorators*, a collection of decorators used on a daily basis.
-
 - *Webapps* (Also open source):
   - [ATP Stats](https://github.com/FBruzzesi/atp_stats_webapp) is a webapp providing tennis analytics and insights in a more colorful and intuitive manner with respect to the official ATP Tour.
   - [Tabular Data Annotator](https://github.com/FBruzzesi/ts-annotator) a webapp to bulk label tabular data from a csv.

@@ -15,16 +15,14 @@ I have in depth experience working on tabular data, time series, Bayesian statis
 
 When I have some spare time on weekends I maintain few projects:
 
-- [scikit-lego](https://github.com/koaning/scikit-lego): since Sept. 2023 I am a maintainer of the project. The goal of the package is to allow to joyfully build new building blocks that are scikit-learn compatible. scikit-lego has 30k+ downloads a month
+- [Narwhals](https://github.com/narwhals-dev/narwhals): an extremely lightweight compatibility layer between Polars, pandas, Modin, cuDF, pyarrow (and more!). I am a core maintainer since Apr. 2024. Narwhals has ~10M downloads a month.
+- [scikit-lego](https://github.com/koaning/scikit-lego): since Sept. 2023 I am a maintainer of the project. The goal of the package is to allow to joyfully build new building blocks that are scikit-learn compatible. scikit-lego has 20k+ downloads a month
 - [ISO Week Date](https://fbruzzesi.github.io/iso-week-date/): **iso-week-date** is a toolkit to work with strings representing [ISO Week date](https://en.wikipedia.org/wiki/ISO_week_date) in two formats: week **YYYY-WNN** and week date **YYYY-WNN-D**.
 - [Timebasedcv](https://fbruzzesi.github.io/timebasedcv/): a python library that provides a cross validation strategies based on _actual datetime_ values instead of indexes, of course compatible with scikit-learn cross validation API.
 - [Compclasses](https://fbruzzesi.github.io/compclasses/): a python utility library to simplify *composition* (over inheritance).
 - [Deczoo](https://fbruzzesi.github.io/deczoo/): a *zoo for python decorators*, a collection of decorators used on a daily basis.
-- *Webapps* (Also open source):
-  - [ATP Stats](https://github.com/FBruzzesi/atp_stats_webapp) is a webapp providing tennis analytics and insights in a more colorful and intuitive manner with respect to the official ATP Tour.
-  - [Tabular Data Annotator](https://github.com/FBruzzesi/ts-annotator) a webapp to bulk label tabular data from a csv.
 
-Both webapps are developed using python [dash](https://plotly.com/dash/) framework and ~deployed on [heroku](https://heroku.com/)~ I need to migrate them to another hosting platform.
+- [ATP Stats](https://github.com/FBruzzesi/atp_stats_webapp) is a webapp providing tennis analytics and insights in a more colorful and intuitive manner with respect to the official ATP Tour.
 
 ## 📫 How to reach me
 

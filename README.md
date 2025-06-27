@@ -17,7 +17,7 @@ When I have some spare time on weekends I maintain few projects:
 
 - [Narwhals](https://github.com/narwhals-dev/narwhals): an extremely lightweight compatibility layer between Polars, pandas, Modin, cuDF, pyarrow (and more!). I am a core maintainer since Apr. 2024 (27M+ downloads a month).
 - [scikit-lego](https://github.com/koaning/scikit-lego): since Sept. 2023 I am a maintainer of the project. The goal of the package is to allow to joyfully build new building blocks that are scikit-learn compatible (30k+ downloads a month).
-- [ISO Week Date](https://fbruzzesi.github.io/iso-week-date/): **iso-week-date** is a toolkit to work with strings representing [ISO Week date](https://en.wikipedia.org/wiki/ISO_week_date) in two formats: week **YYYY-WNN** and week date **YYYY-WNN-D** (50k+ downloads a month).
+- [iso-week-date](https://fbruzzesi.github.io/iso-week-date/) is a toolkit to work with strings representing [ISO Week date](https://en.wikipedia.org/wiki/ISO_week_date) in two formats: week **YYYY-WNN** and week date **YYYY-WNN-D** (50k+ downloads a month).
 - [Timebasedcv](https://fbruzzesi.github.io/timebasedcv/): a python library that provides a cross validation strategies based on _actual datetime_ values instead of indexes, of course compatible with scikit-learn cross validation API.
 - [Compclasses](https://fbruzzesi.github.io/compclasses/): a python utility library to simplify *composition* (over inheritance).
 - [Deczoo](https://fbruzzesi.github.io/deczoo/): a *zoo for python decorators*, a collection of decorators used on a daily basis.
